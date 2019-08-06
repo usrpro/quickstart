@@ -1,0 +1,4 @@
+baseURL = "http://hugo.usrp.ro/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
